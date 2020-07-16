@@ -1,0 +1,31 @@
+{
+  "name": "gulp-spfx-teams",
+  "version": "1.0.0",
+  "description": "Simple gulp task to allow users to automatically generate the teams app from an SPFx project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebastienlevert/gulp-spfx-teams.git"
+  },
+  "keywords": [
+    "gulp",
+    "spfx",
+    "teams",
+    "manifest"
+  ],
+  "dependencies": {
+    "@microsoft/sp-build-web": "1.11.0",
+    "gulp": "~3.9.1",
+    "gulp-clean": "^0.4.0",
+    "gulp-zip": "^5.0.1"
+  },
+  "author": "Sébastien Levert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sebastienlevert/gulp-spfx-teams/issues"
+  },
+  "homepage": "https://github.com/sebastienlevert/gulp-spfx-teams#readme"
+}
