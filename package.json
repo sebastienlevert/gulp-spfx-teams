@@ -17,7 +17,7 @@
     "manifest"
   ],
   "dependencies": {
-    "@microsoft/sp-build-web": "1.11.0",
+    "@microsoft/sp-build-web": "1.21.1",
     "gulp": "~3.9.1",
     "gulp-clean": "^0.4.0",
     "gulp-zip": "^5.0.1"
